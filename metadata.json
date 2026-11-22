@@ -1,0 +1,6 @@
+{
+  "name": "Mahdin-International Services",
+  "description": "Premium industrial, HVAC, and corporate IT maintenance portal for Mahdin-International Ltd in Jatrabari, Dhaka, featuring booking, quick estimates, and live order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
